@@ -18,7 +18,8 @@
 
 ## Um pouco sobre mim 
 
-💻 Apaixonado por dados e tecnologia, possuo experiência nas linguagens Python e Javascript para fins profissionais quando necessário. <br />
+💻 Apaixonado por dados e tecnologia, possuo experiência nas linguagens Python e Javascript para fins profissionais quando necessário. 
+
 Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem estatística, Machine Learning, banco de dados e mecanismos de busca fazem parte do meu dia a dia.
 
 Atualmente atuo na área de Data Science onde meu objetivo é aplicar conhecimentos de estatística e ciência de dados para desenvolvimento. <br />
