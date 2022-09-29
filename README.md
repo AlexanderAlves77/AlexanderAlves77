@@ -4,13 +4,33 @@
 ![banner_github](https://user-images.githubusercontent.com/62291803/193156795-2d108733-82a0-4859-9692-828f2ae8d230.png)
 </div> 
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://fulldevstacks.dev.br)](https://www.fulldevstacks.dev.br)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
+
+## Bem Vindo ao meu Perfil! 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-5522981351510?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522981351510)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=fulldevstacks@gmail&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aeca)
+
 
 ![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderAlves77&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlves77&layout=compact)](https://github.com/AlexanderAlves77/github-readme-stats)
+<br />
 
-<div style="display: inline-block"><br/>
+## Um pouco sobre mim 
+
+💻 Apaixonado por dados e tecnologia, possuo experiência nas linguagens Python e Javascript para fins profissionais quando necessário. <br />
+Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem estatística, Machine Learning, banco de dados e mecanismos de busca fazem parte do meu dia a dia.
+
+Atualmente atuo na área de Data Science onde meu objetivo é aplicar conhecimentos de estatística e ciência de dados para desenvolvimento. <br />
+
+Meu interesse principal é está em um ambiente desafiador e em constante evolução, com oportunidades de crescimento e melhorias profissionais.
+<br />
+
+## 🛠 Tecnologias que eu uso no meu dia
+
+<div style="display: inline-block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,16 +54,3 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
 </div><br />
-
-Apaixonado por dados e tecnologia, possuo experiência nas linguagens Python e Javascript para fins profissionais quando necessário. Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem estatística, Machine Learning, banco de dados e mecanismos de busca fazem parte do meu dia a dia.
-
-Atualmente atuo na área de Data Science onde meu objetivo é aplicar conhecimentos de estatística e ciência de dados para desenvolvimento. Meu interesse principal é está constantemente em um ambiente desafiador e em constante evolução, com oportunidades de crescimento e melhorias profissionais.
-<br />
-
-### Layout de cartão de idioma compacto
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlves77&layout=compact)](https://github.com/AlexanderAlves77/github-readme-stats)
-<br />
-
-[![Alexander's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexanderAlves77)](https://github.com/AlexanderAlves77/github-readme-stats)
-
