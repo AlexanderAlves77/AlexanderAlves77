@@ -1,6 +1,8 @@
 ### Olá! Eu Sou Alexander Alves 🖐️
 
-
+<div align="center">
+![banner_github](https://user-images.githubusercontent.com/62291803/193156795-2d108733-82a0-4859-9692-828f2ae8d230.png)
+</div> 
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://fulldevstacks.dev.br)](https://www.fulldevstacks.dev.br)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
 
