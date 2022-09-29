@@ -4,8 +4,6 @@
   <img align="center" alt="banner" src="https://user-images.githubusercontent.com/62291803/193156795-2d108733-82a0-4859-9692-828f2ae8d230.png" />
 </div> 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
-
 ## Bem Vindo ao meu Perfil! 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-5522981351510?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522981351510)
