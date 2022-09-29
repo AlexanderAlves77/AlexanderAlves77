@@ -13,7 +13,7 @@
 
 ![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderAlves77&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlves77&layout=compact)](https://github.com/AlexanderAlves77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlves77&layout=compact&theme=dracula)](https://github.com/AlexanderAlves77/github-readme-stats)
 <br />
 
 ## Um pouco sobre mim 
