@@ -4,59 +4,216 @@
   <img align="center" alt="banner" src="https://user-images.githubusercontent.com/62291803/193156795-2d108733-82a0-4859-9692-828f2ae8d230.png" />
 </div> 
 
-## Bem Vindo ao meu Perfil! 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-5522981351510?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522981351510)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=fulldevstacks@gmail&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aeca)
+## Bem-vindo ao meu GitHub!
 
+Sou **Software Engineer**, **Java Backend Developer** e **QA Automation Engineer**, apaixonado por engenharia de software, arquitetura de sistemas, qualidade e desenvolvimento de soluções escaláveis.
+
+Atualmente concentro meus estudos e projetos em **Java, Spring Boot, QA Automation, APIs REST e Arquitetura de Software**, mantendo também experiência em **Ciência de Dados** e **Machine Learning**, principalmente aplicada à análise de dados e sistemas inteligentes.
+
+---
+
+## 🌎 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aeca)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-5522981351510-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522981351510)
+
+![Gmail](https://img.shields.io/badge/Gmail-fulldevstacks%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
 
 ![Alexander GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderAlves77&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlves77&layout=compact&theme=dracula)](https://github.com/AlexanderAlves77/github-readme-stats)
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderAlves77&layout=compact&theme=dracula)](https://github.com/AlexanderAlves77)
 
-## Um pouco sobre mim 
+---
 
-💻 Apaixonado por dados e tecnologia, possuo experiência nas linguagens Python e Javascript para fins profissionais quando necessário. 
+# 👨‍💻 Sobre mim
 
-Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem estatística, Machine Learning, banco de dados e mecanismos de busca fazem parte do meu dia a dia.
+Sou Engenheiro de Software com foco em desenvolvimento backend utilizando **Java**, construção de **APIs REST**, arquitetura em camadas e automação de testes.
 
-Atualmente atuo na área de Data Science onde meu objetivo é aplicar conhecimentos de estatística e ciência de dados para desenvolvimento. <br />
+Tenho experiência prática com:
 
-Meu interesse principal é está em um ambiente desafiador e em constante evolução, com oportunidades de crescimento e melhorias profissionais.
-<br />
+- Desenvolvimento de aplicações Java e Spring Boot
+- Arquitetura MVC, DAO, Repository e Service Layer
+- APIs REST
+- Banco de Dados SQL
+- Automação de Testes
+- Engenharia de Software
+- Clean Code
+- SOLID
+- Design Patterns
 
-## 🛠 Tecnologias que eu uso no meu dia
+Também possuo experiência em:
 
-<div style="display: inline-block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-</div><br />
-<div style="display: inline-block">
-  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />    
-  <img align="center" alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
-  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="reactrouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />    
-<div style="display: inline-block">
-</div><br />
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
-</div><br />
-<div style="display: inline-block">
-  <img align="center" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> 
-</div>
+- Ciência de Dados
+- Machine Learning
+- Modelagem Estatística
+- Engenharia de Dados
+- Dashboards
+- Visualização de Dados
+
+Meu objetivo é desenvolver aplicações robustas, escaláveis e de alta qualidade, sempre utilizando boas práticas de engenharia de software.
+
+---
+
+# 🚀 Atualmente estou trabalhando em
+
+✅ Enterprise Java
+
+✅ Spring Boot
+
+✅ QA Automation
+
+✅ Selenium
+
+✅ RestAssured
+
+✅ JUnit
+
+✅ Mockito
+
+✅ TestNG
+
+✅ Docker
+
+✅ Arquitetura de Software
+
+✅ Clean Architecture
+
+---
+
+# 🛠 Tecnologias
+
+## ☕ Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧪 QA Automation
+
+<p>
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RestAssured-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Front-end
+
+React
+
+JavaScript
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+Vue.js
+
+---
+
+## 🗄 Banco de Dados
+
+MySQL
+
+PostgreSQL
+
+SQL Server
+
+MongoDB
+
+SQLite
+
+Firebase
+
+---
+
+## ⚙ DevOps
+
+Git
+
+GitHub
+
+Docker
+
+Jenkins
+
+Linux
+
+---
+
+## 🤖 Ciência de Dados & IA
+
+Python
+
+Machine Learning
+
+Pandas
+
+NumPy
+
+Power BI
+
+Excel
+
+ETL
+
+Análise de Dados
+
+Modelagem Estatística
+
+Visualização de Dados
+
+---
+
+# 📚 Atualmente estudando
+
+- Microsserviços
+- Arquitetura Distribuída
+- AWS
+- Kubernetes
+- C#
+- .NET 8
+- Playwright
+- Cypress
+
+---
+
+# 🎯 Objetivo
+
+Construir soluções escaláveis utilizando Java, Spring Boot e QA Automation, aplicando princípios sólidos de Engenharia de Software para entregar sistemas confiáveis, seguros e de alta qualidade.
