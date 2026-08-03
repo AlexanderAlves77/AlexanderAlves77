@@ -16,9 +16,7 @@ Atualmente concentro meus estudos e projetos em **Java, Spring Boot, QA Automati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aeca)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/datascience.dev)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-5522981351510-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5522981351510)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-5522981351510-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511926618119)
 
 ![Gmail](https://img.shields.io/badge/Gmail-fulldevstacks%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
